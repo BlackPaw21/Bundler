@@ -1,5 +1,5 @@
 # 📦 Bundler 📦
-![Python](https://img.shields.io/badge/Python-blue.svg) ![Flask](https://img.shields.io/badge/Flask-blue.svg) ![Windows](https://img.shields.io/badge/Windows-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)  
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Python](https://img.shields.io/badge/Python-blue.svg) ![Flask](https://img.shields.io/badge/Flask-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)  
 ---
 A **universal link bundler** for everyday use
 
